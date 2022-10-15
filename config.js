@@ -67,10 +67,10 @@ global.ppulsa2 = '085792429140' // kalau ada kartu lain isi aja
 global.psaweria = 'gak punya'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285792429140'
-global.nomorown = '6285237596750'
-global.namebot = 'DITYA-BOTZ'
-global.nameown = 'DITYA ASTAWA'
+global.nomorbot = '62882006485504'
+global.nomorown = '62882006485504'
+global.namebot = 'FARHAN-GANZ'
+global.nameown = 'FARHAN'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'https://githuh.com/Dityarunz' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285237596750', 'WH MODS DEV', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true]
+  ['62882006485504', 'WH MODS DEV', true],
+  ['-', '62882006485504', true],
+  ['-', '62882006485504', true],
+  ['-', '62882006485504', true],
+  ['-', '62882006485504', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DITYA BOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DITYA BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DITYA BOTZ '
+global.wm = '                「 FARHAN BOTZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FARHAN BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ FARHAN BOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DITYA-ASTAWA`
+global.titlebot = `⫹⫺ WhatsApp Bot | By FARHAN-GANZ`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 DITYA-BOTZ  あ」'
+global.author = '                「 FARHAN-GANZ  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DITYA-BOTZ'
-global.stickauth = `By ©DITYA-ASTAWA`
+global.stickpack = 'FARHAN-BOTZ'
+global.stickauth = `By ©FARHAN-GANZ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
