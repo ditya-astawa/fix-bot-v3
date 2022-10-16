@@ -67,10 +67,10 @@ global.ppulsa2 = '085792429140' // kalau ada kartu lain isi aja
 global.psaweria = 'gak punya'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882006485504'
-global.nomorown = '62882006485504'
-global.namebot = 'FARHAN-GANZ'
-global.nameown = 'FARHAN'
+global.nomorbot = '79807009282'
+global.nomorown = '79807009282'
+global.namebot = 'IHSAN'
+global.nameown = 'IHSAN'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'https://githuh.com/Dityarunz' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62882006485504', 'WH MODS DEV', true],
-  ['-', '62882006485504', true],
-  ['-', '62882006485504', true],
-  ['-', '62882006485504', true],
-  ['-', '62882006485504', true]
+  ['79807009282', 'WH MODS DEV', true],
+  ['-', '79807009282', true],
+  ['-', '79807009282', true],
+  ['-', '79807009282', true],
+  ['-', '79807009282', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FARHAN BOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FARHAN BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ FARHAN BOTZ '
+global.wm = '                「 IHSAN 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘IHSAN BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ IHSAN BOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By FARHAN-GANZ`
+global.titlebot = `⫹⫺ WhatsApp Bot | By IHSAN`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 FARHAN-GANZ  あ」'
+global.author = '                「 IHSAN  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'FARHAN-BOTZ'
-global.stickauth = `By ©FARHAN-GANZ`
+global.stickpack = 'IHSAN'
+global.stickauth = `By ©IHSAN`
 
 global.multiplier = 38 // The higher, The harder levelup
 
